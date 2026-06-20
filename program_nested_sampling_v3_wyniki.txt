@@ -1,0 +1,9 @@
+############################################################
+WYNIKI PORÓWNANIA BAYESOWSKIEGO (FULL CMB PRIOR + BAO + SNe)
+############################################################
+Ewidencja (ln Z) PhantomX : -781.76
+Ewidencja (ln Z) LCDM     : -787.68
+Czynnik Bayesa (? ln Z) : 5.91
+############################################################
+
+-> Wygenerowano wykres w wersji angielskiej: Model_Comparison_Dynesty_ENG.png
