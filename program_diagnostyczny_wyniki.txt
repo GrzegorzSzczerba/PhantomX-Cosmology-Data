@@ -1,0 +1,19 @@
+==================================================
+Liczba wêdrowców (walkers): 32
+Liczba kroków: 1500 (Burn-in: 500, Thinning: 15)
+Priors: Om_m0 in (0.05, 0.95), H0=67.36 (stale), r_d=147.05 (stale)
+1. WYNIKI BAO-ONLY:
+   Om_m0 = 0.3015 +0.0042 / -0.0041
+   chi^2 = 15.73 (dla 13 punktow)
+2. WYNIKI SNe-ONLY:
+   Om_m0 = 0.2712 +0.0189 / -0.0192
+   chi^2 = 1521.94 (dla 1820 punktow)
+3. WYNIKI PO£¥CZONE (JOINT BAO+SNe):
+   Om_m0 = 0.3000 +0.0040 / -0.0040
+   chi^2(total) = 1540.20
+      w tym chi^2(BAO) = 15.86
+      w tym chi^2(SNe) = 1524.35
+==================================================
+
+-> ZAPISANO WYKRES DO PLIKU: MCMC_Tension_Plot.png
+-> TEN WYKRES JEST KLUCZOWYM DOWODEM DO PUBLIKACJI!
