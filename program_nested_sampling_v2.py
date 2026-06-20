@@ -246,13 +246,13 @@ if __name__ == "__main__":
     plt.axvline(np.percentile(samples_l_eq[:,0], 50), color='#1f77b4', linestyle='dashed', linewidth=1.5)
     plt.axvline(np.percentile(samples_p_eq[:,0], 50), color='#d62728', linestyle='dashed', linewidth=1.5)
 
-    plt.title(f'Porównanie Modeli: $\\Lambda$CDM vs PhantomX (BAO+SNe+CMB)\nCzynnik Bayesa ($\\Delta \\ln \\mathcal{{Z}}$): {delta_logZ:.2f}', fontsize=14, fontweight='bold')
+    plt.title(f'Model Comparison: $\\Lambda$CDM vs PhantomX (BAO+SNe+CMB)\nBayes Factor ($\\Delta \\ln \\mathcal{{Z}}$): {delta_logZ:.2f}', fontsize=14, fontweight='bold')
     plt.xlabel(r'$\Omega_{m0}$', fontsize=14)
-    plt.ylabel('Prawdopodobieństwo Aposteriori', fontsize=12)
+    plt.ylabel('Posterior Density', fontsize=12)
     plt.xlim(0.2, 0.4)
     plt.grid(True, linestyle='--', alpha=0.5)
     plt.legend(fontsize=11, loc='upper right')
     plt.tight_layout()
-    plt.savefig('Porownanie_Modeli_Dynesty.png', dpi=300)
+    plt.savefig('Model_Comparison_Dynesty.png', dpi=300)
     
-    print("\n-> Wygenerowano wykres porównawczy: Porownanie_Modeli_Dynesty.png")
+    print("\n-> Wygenerowano wykres porównawczy: Model_Comparison_Dynesty.png")
