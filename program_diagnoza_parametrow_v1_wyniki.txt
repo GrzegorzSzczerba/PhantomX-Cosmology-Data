@@ -1,0 +1,11 @@
+--- PHANTOMX DIAGNOSTYKA ---
+BAO Only (1D) : Om_m0 = 0.3326
+SNe Only (1D) : Om_m0 = 0.2700
+CMB Only (1D) : Om_m0 = 0.3068
+JOINT (3D)    : Total Chi^2 = 1541.04
+
+--- LCDM DIAGNOSTYKA ---
+BAO Only (1D) : Om_m0 = 0.2889
+SNe Only (1D) : Om_m0 = 0.3435
+CMB Only (1D) : Om_m0 = 0.3217
+JOINT (3D)    : Total Chi^2 = 1554.55
