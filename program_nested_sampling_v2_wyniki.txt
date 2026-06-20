@@ -3,21 +3,21 @@ Sprawdzanie i pobieranie danych...
 ============================================================
 URUCHAMIAM NESTED SAMPLING: MODEL PHANTOMX (6W-ANRA)
 ============================================================
-4684it [01:30, 175.86it/s, +6 | bound: 9 | nc: 1 | ncall: 22647 | eff(%): 20.715 | loglstar:   -inf < -774.555 <    inf | logz: -779.313 +/-  0.092 | dlogz:  0.010 >  0.04684it [01:30, 51.92it/s, +500 | bound: 9 | nc: 1 | ncall: 23141 | eff(%): 22.897 | loglstar:   -inf < -774.555 <    inf | logz: -779.303 +/-  0.092 | dlogz:  0.000 >  0.010]
+4677it [01:33, 177.12it/s, +50 | bound: 9 | nc: 1 | ncall: 22504 | eff(%): 21.052 | loglstar:   -inf < -774.555 <    inf | logz: -779.297 +/-  0.092 | dlogz:  0.009 >  0.4677it [01:33, 50.09it/s, +500 | bound: 9 | nc: 1 | ncall: 22954 | eff(%): 23.056 | loglstar:   -inf < -774.555 <    inf | logz: -779.288 +/-  0.092 | dlogz:  0.000 >  0.010]
 
 ============================================================
 URUCHAMIAM NESTED SAMPLING: MODEL STANDARDOWY LCDM
 ============================================================
-4617it [00:49, 94.21it/s, +500 | bound: 9 | nc: 1 | ncall: 22022 | eff(%): 23.776 | loglstar:   -inf < -780.959 <    inf | logz: -785.572 +/-  0.090 | dlogz:  0.000 >  0.010]
+4696it [00:56, 83.14it/s, +500 | bound: 9 | nc: 1 | ncall: 22944 | eff(%): 23.151 | loglstar:   -inf < -780.959 <    inf | logz: -785.731 +/-  0.092 | dlogz:  0.000 >  0.010]
 
 ############################################################
 WYNIKI PORÓWNANIA BAYESOWSKIEGO (JOINT: BAO + SNe + CMB)
 ############################################################
-Ewidencja (ln Z) PhantomX : -779.30 ± 0.09
-Ewidencja (ln Z) LCDM     : -785.57 ± 0.09
+Ewidencja (ln Z) PhantomX : -779.29 ± 0.09
+Ewidencja (ln Z) LCDM     : -785.73 ± 0.10
 ------------------------------------------------------------
-Czynnik Bayesa (? ln Z) : 6.27
--> Wynik faworyzuje model PhantomX (z przewag¹ 6.27).
+Czynnik Bayesa (? ln Z) : 6.44
+-> Wynik faworyzuje model PhantomX (z przewag¹ 6.44).
 ############################################################
 
--> Wygenerowano wykres porównawczy: Porownanie_Modeli_Dynesty.png
+-> Wygenerowano wykres porównawczy: Model_Comparison_Dynesty.png
