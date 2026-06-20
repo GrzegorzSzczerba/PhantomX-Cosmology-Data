@@ -1,0 +1,10 @@
+==================================================
+RAPORT DIAGNOSTYCZNY Z UWZGLÊDNIENIEM CMB
+==================================================
+BAO Only: Om_m0 = 0.3015
+SNe Only: Om_m0 = 0.2712
+CMB Only: Om_m0 = 0.3217
+JOINT FIT: Om_m0 = 0.3076
+Total Chi^2: 1549.12
+==================================================
+-> WYKRES ZAPISANO JAKO: MCMC_Tension_Plot_with_CMB.png

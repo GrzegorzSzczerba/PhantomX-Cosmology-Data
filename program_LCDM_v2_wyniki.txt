@@ -1,0 +1,10 @@
+==================================================
+RAPORT DIAGNOSTYCZNY: MODEL STANDARDOWY LCDM
+==================================================
+BAO Only: Om_m0 = 0.3261
+SNe Only: Om_m0 = 0.3445
+CMB Only: Om_m0 = 0.3002
+JOINT FIT: Om_m0 = 0.3226
+Total Chi^2: 1561.92
+==================================================
+-> WYKRES ZAPISANO JAKO: MCMC_Tension_Plot_LCDM.png
