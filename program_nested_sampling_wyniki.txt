@@ -1,0 +1,15 @@
+############################################################
+RAPORT EWIDENCJI BAYESOWSKIEJ (DO PUBLIKACJI)
+############################################################
+Ewidencja PhantomX (ln Z) :  -775.5693 +/- 0.2151
+Ewidencja LambdaCDM (ln Z):  -780.8315 +/- 0.2152
+------------------------------------------------------------
+Delta ln Z (Bayes Factor) =  5.2622
+
+INTERPRETACJA SKALI JEFFREYSA:
+-> Twój model (PhantomX) jest BARDZIEJ PRAWDOPODOBNY od LambdaCDM.
+   Dowód: Decyduj¹cy (Decisive evidence)!
+############################################################
+
+-> Wygenerowano profesjonalne wykresy: 'PhantomX_Nested_Corner.png' i 'LCDM_Nested_Corner.png'
+-> Mo¿esz je bezpoœrednio osadziæ w pliku PDF swojej pracy badawczej.
