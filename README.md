@@ -13,9 +13,10 @@ The observational vector $v = (R, l_A, \omega_b)$, the standard deviations, and 
 * **Reference:** Chen, L., Huang, Q.-G., & Wang, K. (2019). *Distance Priors from Planck Final Release*. JCAP 02(2019)028.
 * **arXiv link:** [https://arxiv.org/abs/1808.05724](https://arxiv.org/abs/1808.05724)
 
-2 główne programy:
+3 główne programy:
 program_nested_sampling_v3.py
 program_diagnoza_parametrow_v1.py
+program_nested_sampling_v3_testing_wide_priors.py
 
 Uruchomienie bez żadnych parametrów
 Użyty (zapisany w kodzie) seed = 42 dla pierwszego programu.
