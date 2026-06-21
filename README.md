@@ -19,4 +19,4 @@ program_diagnoza_parametrow_v1.py
 program_nested_sampling_v3_testing_wide_priors.py
 
 Uruchomienie bez żadnych parametrów
-Użyty (zapisany w kodzie) seed = 42 dla pierwszego programu.
+Użyty (zapisany w kodzie) seed = 42 dla pierwszego i trzeciego programu.
